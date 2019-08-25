@@ -3,9 +3,9 @@
   "hostname": "localhost",
   "notebook_dir": "/home/steve",
   "password": false,
-  "pid": 11528,
+  "pid": 13035,
   "port": 8888,
   "secure": false,
-  "token": "bc72d317725494363579624f73823083e92594ff2796d8de",
+  "token": "2facb227313d5138f5b49946c0e6c188d93901db4de560dc",
   "url": "http://localhost:8888/"
 }
